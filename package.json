@@ -13,6 +13,9 @@
   "author": "Bowen Zhong",
   "license": "ISC",
   "devDependencies": {
-    "grunt": "^1.0.1"
+    "grunt": "^1.0.1",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-nodemon": "^0.4.2",
+    "load-grunt-tasks": "^3.5.2"
   }
 }
